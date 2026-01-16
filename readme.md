@@ -43,14 +43,31 @@ This is the most important part. The bot is designed to protect your money:
 3.  Select the file: `complete_deriv_bot.xml`.
 4.  Click **Open**.
 
+
+
 ### Step 4: Run It
 1.  You will see the logic blocks appear on the screen.
 2.  Click the green **"Run"** button at the top right.
-3.  **Wait.** The bot will not trade immediately. It waits for the RSI signal (Below 40 or Above 60). This might take 1-5 minutes.
+3.  **Wait.** The bot will start analyzing the digits.
+
+
+
+## 4. Proof of Performance
+Here is the bot in action, hitting the target profit and loss automatically.
+
+
+
+**2. Running the Bot:**
+![Bot Running](Images/Screenshot%202026-01-15%20225928.png)
+
+![Profit Proof](Images/Screenshot%202026-01-15%20230414.png)
+
+**3. Profit Result:**
+![Upload Screen](Images/Screenshot%202026-01-15%20225925.png)
 
 ---
 
-## 4. Configuration (Advanced)
+## 5. Configuration (Advanced)
 If you want to change the settings, look at **Block 1 (Initialization)** in the bot builder:
 
 | Variable | Default | Description |
